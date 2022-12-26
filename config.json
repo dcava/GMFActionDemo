@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "dotnet", "csharp" ],
-    "Instances": [ "hachyderm.io", "mastodon.social" ]
+    "Tags": [ "" ],
+    "Instances": [ "hachyderm.io", "mastodon.social", "infosec.exchange", "fosstodon.org", "aus.social", "federate.social" ]
 }
